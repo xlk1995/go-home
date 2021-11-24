@@ -1,6 +1,6 @@
 
 $(function(){
-	$("#hurry-home-input_start_time").val(localStorage.getItem("start_time") || "09:00");
+	$("#hurry-home-input_start_time").val(localStorage.getItem("start_time") || "10:30");
 	$("#hurry-home-input_end_time").val(localStorage.getItem("end_time") || "18:00");
 })
 
