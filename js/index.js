@@ -1,7 +1,7 @@
 $(function() {
 
-	let start_time = 	$("#hurry-home-input_start_time").val()  || "09:00"
-	let end_time = 	$("#hurry-home-input_end_time").val() || "18:00"
+	let start_time = 	"10:30"
+	let end_time = 	 "18:00"
 
 	let weekOfDay = moment().format("E") // 指定日期的周的第几天 1,2,3,4,5,6,7
 
