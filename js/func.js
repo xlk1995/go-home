@@ -1,6 +1,6 @@
 
 $(function(){
-	$("#hurry-home-input_start_time").val("10:50");
+	$("#hurry-home-input_start_time").val("10:00");
 	$("#hurry-home-input_end_time").val("18:30");
 })
 
