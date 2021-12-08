@@ -1,7 +1,7 @@
 $(function() {
 
-	let start_time = 	"10:30"
-	let end_time = 	 "18:05"
+	let start_time = 	"10:17"
+	let end_time = 	 "18:30"
 
 	let weekOfDay = moment().format("E") // 指定日期的周的第几天 1,2,3,4,5,6,7
 
