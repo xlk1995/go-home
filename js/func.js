@@ -1,7 +1,7 @@
 
 $(function(){
-	$("#hurry-home-input_start_time").val("10:17");
-	$("#hurry-home-input_end_time").val("18:30");
+	$("#hurry-home-input_start_time").val("10:00");
+	$("#hurry-home-input_end_time").val("17:00");
 })
 
 $("#hurry-home-double_github").on('click',function(e){
